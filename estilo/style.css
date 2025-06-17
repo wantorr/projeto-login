@@ -33,7 +33,7 @@ section#login{
 
 section#login > div#imagem{
     display: block;
-    background: #5f2c82 url(/imagens/pexels-sevenstormphotography-443383.jpg) no-repeat;
+    background: #5f2c82 url(../imagens/pexels-sevenstormphotography-443383.jpg) no-repeat;
     height: 250px;
     background-size: cover;
 }
