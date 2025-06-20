@@ -36,7 +36,7 @@
     }
     sectaion#login > div#formulario {
         float: left;
-        width: 50%;
+        width: 100%;
     }
 
     div#formulario > h1 {
@@ -45,5 +45,10 @@
 
     div#formulario > p {
     font-size: 1.2em;
+    }
+
+    form  {
+        width: 49%;
+        
     }
 }
